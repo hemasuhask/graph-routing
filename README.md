@@ -1,4 +1,4 @@
-# P7 Route Fall2023
+# Graph Routing
 
 ## Project Introduction
 This project involves implementing a routing service that represents the United States highway network as a graph and calculates routes and distances on this network. It consists of two main parts: implementing GraphProcessor to manage the graph representation and creating GraphDemo to demonstrate the functionality of GraphProcessor with a minimal viable product. The project emphasizes understanding graph theory, algorithm implementation, and testing methodologies.
