@@ -29,7 +29,7 @@ This project involves implementing a routing service that represents the United 
 - **Graph Algorithms:** Implementing and optimizing graph algorithms is a sophisticated task that is highly relevant to many advanced software engineering problems.
 - **Data Structures:** Managing and processing large graph data structures shows a deep understanding of complex data management.
 - **End-to-End Development:** Developing a minimal viable product with visualization demonstrates the ability to integrate backend processing with frontend presentation, a valuable skill in full-stack development.
-- **Real-World Application:** The project has direct applicability to real-world problems in routing and navigation, making it highly relevant and impressive to potential employers.
+- **Real-World Application:** The project has direct applicability to real-world problems in routing and navigation, making it highly relevant for real-world application.
 
 
 ## Files
