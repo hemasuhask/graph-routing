@@ -10,8 +10,7 @@ This project involves implementing a routing service that represents the United 
 - **Graph Data**
 - **Part 1: Implementing GraphProcessor**
 - **Part 2: Creating GraphDemo**
-- **Submitting and Grading**
-
+  
 ## Implementation
 - Implemented GraphProcessor to manage the graph representation of the United States highway network.
 - Developed algorithms for connectivity, distance calculation, and pathfinding.
